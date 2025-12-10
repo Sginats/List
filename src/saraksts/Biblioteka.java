@@ -1,0 +1,10 @@
+package saraksts;
+
+public class Biblioteka {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
